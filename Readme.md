@@ -1,5 +1,3 @@
-<!-- Profile README for kr1v -->
-
 <h1 align="center">
   Hey there! 👋 I'm Kritika  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -16,9 +14,9 @@
 ### 🌷 About Me
 
 - 🎓 Tech enthusiast passionate about creative coding  
-- 💻 Currently learning MERN, React Native, and full-stack dev  
-- 📚 Studying DSA and contributing to open-source  
-- 🌱 Always exploring new ideas and collaborating  
+- 💻 Learning React and diving into modern web development  
+- 📚 Exploring DSA and contributing to open-source  
+- 🌱 Always experimenting, making mistakes, and figuring things out one bug at a time  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=f4c2c2&height=4&section=footer&animation=twinkling"/>
@@ -27,13 +25,18 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <br/>
+
+  <!-- Web & Frameworks -->
   <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
 <p align="center">
@@ -60,16 +63,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=f4c2c2&height=4&section=footer&animation=twinkling"/>
 </p>
 
-
-
-
 ### 📫 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kritika-mehta-b143872a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-4f3d57?logo=linkedin&style=for-the-badge&logoColor=white">
   </a>
-  <a href="kmehta221628@gmail.com">
+  <a href="mailto:kmehta221628@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-E36F91?logo=gmail&style=for-the-badge&logoColor=white">
   </a>
 </p>
@@ -81,6 +81,7 @@
 <p align="center">
   <em>🌸 Thanks for visiting! Let’s build something beautiful together. 🌸</em>
 </p>
+
 
 
 
