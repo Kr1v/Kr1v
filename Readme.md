@@ -15,7 +15,7 @@
 
 - 🎓 Tech enthusiast passionate about creative coding  
 - 💻 Learning React and diving into modern web development  
-- 📚 Exploring DSA and contributing to open-source  
+- 📚 Exploring DSA
 - 🌱 Always experimenting, making mistakes, and figuring things out one bug at a time  
 
 <p align="center">
