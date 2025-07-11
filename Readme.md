@@ -63,7 +63,9 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=f4c2c2&height=4&section=footer&animation=twinkling"/>
+ 
 </p>
+
 
 ### 📫 Let’s Connect
 
