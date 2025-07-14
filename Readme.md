@@ -59,14 +59,22 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kr1v&theme=rose_pine&ring=f4c2c2&fire=f4c2c2&currStreakLabel=f4c2c2" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=kr1v&theme=rose_pine&ring=f4c2c2&fire=f4c2c2&currStreakLabel=f4c2c2" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=f4c2c2&height=4&section=footer&animation=twinkling"/>
- 
 </p>
 
+### 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr1v&layout=compact&theme=rose_pine&hide=html,css,scss&langs_count=6" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=f4c2c2&height=4&section=footer&animation=twinkling"/>
+</p>
 
 ### 📫 Let’s Connect
 
