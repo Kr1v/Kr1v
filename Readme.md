@@ -69,7 +69,7 @@
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr1v&layout=compact&theme=rose_pine&hide=html,css,scss&langs_count=6" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr1v&layout=compact&theme=rose_pine" alt="Top Languages"/>
 </p>
 
 <p align="center">
