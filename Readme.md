@@ -1,104 +1,85 @@
-<h1 align="center">
-  Hey there! 👋 I'm Kritika  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+<div align="center">
 
-<p align="center">
-  <em>“Just a curious mind building things, learning every day ✨”</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0b1e,50:1e1145,100:2d1f5e&height=200&section=header&text=hey%2C%20i%27m%20Kritika%20%E2%9C%A6&fontColor=c4b5fd&fontSize=36&fontAlignY=45&desc=curious%20mind%20%C2%B7%20creative%20coder%20%C2%B7%20one%20bug%20at%20a%20time&descAlignY=65&descSize=14&descColor=9b87c4&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=f4c2c2&height=4&section=footer&animation=twinkling"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=9b87c4&center=true&vCenter=true&width=500&lines=React+learner+%7C+DSA+explorer+%F0%9F%8C%B1;making+things+look+as+good+as+they+work+%E2%9C%A6;one+bug+at+a+time+%F0%9F%AA%90;open+to+collaborate)](https://git.io/typing-svg)
 
-### 🌷 About Me
+</div>
 
-- 🎓 Tech enthusiast passionate about creative coding  
-- 💻 Learning React and diving into modern web development  
-- 📚 Exploring DSA
-- 🌱 Always experimenting, making mistakes, and figuring things out one bug at a time  
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=f4c2c2&height=4&section=footer&animation=twinkling"/>
-</p>
+### ✦ about me
 
-### 🛠️ Tech Stack
+🎓 &nbsp;Tech enthusiast with a love for creative coding — I care about how things look just as much as how they work.
 
-<p align="center">
+⚛️ &nbsp;Currently building with **React** and diving deeper into modern web development.
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <br/>
+🧩 &nbsp;Sharpening my problem-solving through **Data Structures & Algorithms** every day.
 
+🌱 &nbsp;I learn by doing — every bug is a lesson, every project a step forward.
 
-  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
- 
-</p>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=f4c2c2&height=4&section=footer&animation=twinkling"/>
-</p>
+### ✦ tech stack
 
-### 💫 My GitHub Stats
+**Languages**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kr1v&show_icons=true&theme=rose_pine&title_color=f4c2c2&icon_color=f4c2c2&text_color=e0ccd1&bg_color=00000000" alt="kr1v's GitHub stats">
-</p>
+![Python](https://img.shields.io/badge/Python-1e1145?style=for-the-badge&logo=python&logoColor=c4b5fd)
+![C++](https://img.shields.io/badge/C++-1e1145?style=for-the-badge&logo=cplusplus&logoColor=c4b5fd)
+![C](https://img.shields.io/badge/C-1e1145?style=for-the-badge&logo=c&logoColor=c4b5fd)
+![Java](https://img.shields.io/badge/Java-1e1145?style=for-the-badge&logo=openjdk&logoColor=c4b5fd)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=f4c2c2&height=4&section=footer&animation=twinkling"/>
-</p>
+**Frontend & Tools**
 
-### 🔥 GitHub Streak
+![HTML5](https://img.shields.io/badge/HTML5-1e1145?style=for-the-badge&logo=html5&logoColor=e2825a)
+![CSS3](https://img.shields.io/badge/CSS3-1e1145?style=for-the-badge&logo=css3&logoColor=7aabcc)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1145?style=for-the-badge&logo=javascript&logoColor=e2c55a)
+![React](https://img.shields.io/badge/React-1e1145?style=for-the-badge&logo=react&logoColor=7dd3d8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1e1145?style=for-the-badge&logo=bootstrap&logoColor=c4b5fd)
+![Firebase](https://img.shields.io/badge/Firebase-1e1145?style=for-the-badge&logo=firebase&logoColor=e2b55a)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kr1v&theme=rose_pine&ring=f4c2c2&fire=f4c2c2&currStreakLabel=f4c2c2" alt="GitHub Streak"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=f4c2c2&height=4&section=footer&animation=twinkling"/>
-</p>
+### ✦ github stats
 
-### 📊 Most Used Languages
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr1v&layout=compact&theme=rose_pine" alt="Top Languages"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=kr1v&show_icons=true&hide_border=true&bg_color=0d0b1e&title_color=c4b5fd&icon_color=9b87c4&text_color=b8b0d0" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr1v&layout=compact&hide_border=true&bg_color=0d0b1e&title_color=c4b5fd&text_color=b8b0d0" height="160"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=f4c2c2&height=4&section=footer&animation=twinkling"/>
-</p>
+</div>
 
-### 📫 Let’s Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kritika-mehta-b143872a5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4f3d57?logo=linkedin&style=for-the-badge&logoColor=white">
-  </a>
-  <a href="mailto:kmehta221628@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-E36F91?logo=gmail&style=for-the-badge&logoColor=white">
-  </a>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kr1v&hide_border=true&background=0d0b1e&ring=9b87c4&fire=c4b5fd&currStreakLabel=9b87c4&sideLabels=b8b0d0&dates=6e6590&stroke=2d1f5e&currStreakNum=c4b5fd&sideNums=b8b0d0" height="160"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=f4c2c2&height=4&section=footer&animation=twinkling"/>
-</p>
+</div>
 
-<p align="center">
-  <em>🌸 Thanks for visiting! Let’s build something beautiful together. 🌸</em>
-</p>
+<div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kr1v&bg_color=0d0b1e&color=b8b0d0&line=9b87c4&point=c4b5fd&area=true&area_color=2d1f5e&hide_border=true" width="98%"/>
 
+</div>
 
+---
 
+### ✦ connect
 
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e1145?style=for-the-badge&logo=linkedin&logoColor=c4b5fd)](https://www.linkedin.com/in/kritika-mehta-b143872a5/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-1e1145?style=for-the-badge&logo=gmail&logoColor=e2825a)](mailto:kmehta221628@gmail.com)
 
+</div>
 
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1f5e,50:1e1145,100:0d0b1e&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+`✦ thanks for visiting · built with curiosity & caffeine`
+
+</div>
